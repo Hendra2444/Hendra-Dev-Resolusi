@@ -2,3 +2,4 @@ Hendra Developer
 -Membuat dan mengembangkan sistem web di lingkungan kerja
 -konsiten mengasah ilmu programing sampai betul betul bisa
 -membuat website yang bermanfaat untuk semua orang
+'-memperbanyak latihan koding
